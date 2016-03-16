@@ -1,0 +1,114 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" ftp_hostname="ftp://ftp.radiosabor.com.ve" ftp_rootfolder="/public_html" exportTarget="FTP" domain="radiosabor.com.ve" resolutions="1x" timestamp="1447077583264">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_radio-sabor-101_7-fm.css" crc="500722101" ref="contactenos:index:galerias:historia"/>
+    <file name="contactenos.css" crc="360524391" ref="contactenos"/>
+    <file name="index.css" crc="494929430" ref="index"/>
+    <file name="galerias.css" crc="6199922" ref="galerias"/>
+    <file name="historia.css" crc="3999945654" ref="historia"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:galerias:contactenos:historia"/>
+    <file name="museutils.js" crc="275725342" ref="index:galerias:contactenos:historia"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:galerias:contactenos:historia"/>
+    <file name="pie.js" crc="3827607177" ref="index:galerias:contactenos:historia"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:galerias:contactenos:historia"/>
+    <file name="webpro.js" crc="3883484123" ref="index:galerias:contactenos:historia"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:galerias:contactenos"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:galerias:contactenos"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:galerias:contactenos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:galerias:contactenos:historia"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="historia"/>
+    <file name="form_check.php" crc="3932029206" ref="contactenos"/>
+    <file name="form_throttle.php" crc="314685628" ref="contactenos"/>
+    <file name="form_process.php" crc="401030677" ref="contactenos"/>
+    <file name="form-u4027.php" crc="306909955" ref="contactenos"/>
+  </folder>
+  <folder name="images">
+    <file name="1668fefe9eca1566d239f5101c2af490png_srz_p_50_50_75_22_050_120_0-u778.png" crc="528253019" ref="index:galerias:contactenos:historia"/>
+    <file name="09b721261e9fba8dd8a96ee539a0743fpng_srz_p_50_50_75_22_050_120_0-u766.png" crc="138053687" ref="index:galerias:contactenos:historia"/>
+    <file name="9c1892e58b01c12f71960b8cd49450bbpng_srz_p_50_50_75_22_050_120_0-u772.png" crc="4048631105" ref="index:galerias:contactenos:historia"/>
+    <file name="logo sabor nuevo a la medida.jpg" crc="4221074881" seo="true" ref="index:galerias:contactenos:historia"/>
+    <file name="descarga (4).jpg" crc="4275604877" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:galerias:contactenos"/>
+    <file name="loading.gif" crc="3815509949" ref="index:galerias:contactenos"/>
+    <file name="forum.jpg" crc="3916631420" seo="true" ref="historia"/>
+    <file name="2.jpg" crc="380353500" seo="true" ref="galerias"/>
+    <file name="p1020106.jpg" crc="4063764926" seo="true" ref="galerias"/>
+    <file name="p1020108.jpg" crc="521712272" seo="true" ref="galerias"/>
+    <file name="p1020199.jpg" crc="237627614" seo="true" ref="galerias"/>
+    <file name="p1020200.jpg" crc="495903728" seo="true" ref="galerias"/>
+    <file name="p1020147.jpg" crc="3910335744" seo="true" ref="galerias"/>
+    <file name="p1020211.jpg" crc="4245639828" seo="true" ref="galerias"/>
+    <file name="p1020202.jpg" crc="92143494" seo="true" ref="galerias"/>
+    <file name="p1020165.jpg" crc="3875579944" seo="true" ref="galerias"/>
+    <file name="p1020372.jpg" crc="4165355062" seo="true" ref="galerias"/>
+    <file name="p1020373.jpg" crc="4058574915" seo="true" ref="galerias"/>
+    <file name="p1020377.jpg" crc="242956937" seo="true" ref="galerias"/>
+    <file name="p1020170.jpg" crc="4095266419" seo="true" ref="galerias"/>
+    <file name="p1020151.jpg" crc="254347852" seo="true" ref="galerias"/>
+    <file name="logo_sabor_ nuevo.jpg" crc="4211795633" seo="true" ref="index"/>
+    <file name="favicon.ico" crc="4079948958" ref="index"/>
+    <file name="fondo sabor.jpg" crc="3789581229" ref="index"/>
+    <file name="p1020184-crop-u3617.jpg" crc="3860594749" ref="index"/>
+    <file name="fondo sabor1.jpg" crc="346386596" ref="historia"/>
+    <file name="fondo sabor2.jpg" crc="383211823" ref="galerias"/>
+    <file name="p1020104.jpg" crc="135234953" seo="true" ref="galerias"/>
+    <file name="p1020120.jpg" crc="340364164" seo="true" ref="galerias"/>
+    <file name="p1010812.jpg" crc="4035508163" seo="true" ref="galerias"/>
+    <file name="p1020161.jpg" crc="3825271300" seo="true" ref="galerias"/>
+    <file name="p1020167.jpg" crc="4027514285" seo="true" ref="galerias"/>
+    <file name="p1020204.jpg" crc="66981245" seo="true" ref="galerias"/>
+    <file name="p1020179.jpg" crc="4222542192" seo="true" ref="galerias"/>
+    <file name="p1020184526x394.jpg" crc="238902603" seo="true" ref="galerias"/>
+    <file name="p1020188.jpg" crc="3948964495" seo="true" ref="galerias"/>
+    <file name="logo_sabor_ nuevo2.jpg" crc="140583771" seo="true" ref="historia"/>
+    <file name="fondo sabo contactanosr.jpg" crc="3925999147" ref="contactenos"/>
+    <file name="p1020037-crop-u3491.jpg" crc="3764221094" ref="contactenos"/>
+    <file name="p1020196-crop-u3785.jpg" crc="4133197306" ref="index"/>
+    <file name="p1020016-crop-u2812.jpg" crc="4088530616" ref="historia"/>
+    <file name="p1020113.jpg" crc="4185739087" seo="true" ref="historia"/>
+    <file name="p1020006.jpg" crc="124379651" seo="true" ref="historia"/>
+    <file name="images.jpg" crc="438154109" seo="true" ref="galerias"/>
+    <file name="p1020196525x394.jpg" crc="400239852" seo="true" ref="galerias"/>
+    <file name="p1020723.jpg" crc="431184059" seo="true" ref="galerias"/>
+    <file name="p1020729.jpg" crc="3955220496" seo="true" ref="galerias"/>
+    <file name="p1020821.jpg" crc="3863333658" seo="true" ref="galerias"/>
+    <file name="p1020828.jpg" crc="4061348192" seo="true" ref="galerias"/>
+    <file name="p1020834.jpg" crc="484094786" seo="true" ref="galerias"/>
+    <file name="p1020837.jpg" crc="3835090767" seo="true" ref="galerias"/>
+    <file name="p1020842.jpg" crc="4273327893" seo="true" ref="galerias"/>
+    <file name="p1020857.jpg" crc="388649959" seo="true" ref="galerias"/>
+    <file name="p1020858.jpg" crc="18158968" seo="true" ref="galerias"/>
+    <file name="u4035-17.png" crc="4148707273" ref="contactenos"/>
+    <file name="u4035-17-r.png" crc="152355997" ref="contactenos"/>
+    <file name="u4035-17-m.png" crc="3929768203" ref="contactenos"/>
+    <file name="u4035-17-fs.png" crc="4258744511" ref="contactenos"/>
+    <file name="2414287534912580.jpg" crc="71939610" seo="true" ref="historia"/>
+    <file name="u4196-4.png" crc="395099680" ref="historia"/>
+    <file name="1410551503892-antonio_jose_de_sucre.jpg" crc="236569397" seo="true" ref="historia"/>
+    <file name="u4218-4.png" crc="3941228041" ref="historia"/>
+    <file name="logo sabor nuevo a la medida2.jpg" crc="3869170161" seo="true" ref="contactenos"/>
+    <file name="u4251-grad.png" crc="384684211" ref="index"/>
+    <file name="descarga (4)2.jpg" crc="4010844370" seo="true" ref="galerias"/>
+    <file name="boton_radio_online-u4332.png" crc="302123761" ref="index"/>
+    <file name="sabor.png" crc="51017235" seo="true" ref="index"/>
+    <file name="balanza-u4516.png" crc="231826423" ref="contactenos"/>
+    <file name="p1010998-crop-u4578.jpg" crc="4217191971" ref="index"/>
+    <file name="p1020108-crop-u4592.jpg" crc="4088986874" ref="index"/>
+    <file name="p1020161-crop-u4606.jpg" crc="3914764093" ref="index"/>
+    <file name="p1020006-crop-u4550.jpg" crc="42053201" ref="index"/>
+  </folder>
+  <file name="index.html" crc="404070966" seo="true" mt="1447077552782" redirect="true"/>
+  <file name="galerias.html" crc="3980820856" seo="true" mt="1447077552782" redirect="true"/>
+  <file name="contactenos.html" crc="180676373" seo="true" mt="1447077552782" redirect="true"/>
+  <file name="historia.html" crc="4280416747" seo="true" mt="1447077552782" redirect="true"/>
+  <linkData>
+    <DESKTOP>
+      <page name="Galerias" filename="galerias.html" muse_href="page:U2559"/>
+      <page name="Historia" filename="historia.html" muse_href="page:U2553"/>
+      <page name="Contactenos" filename="contactenos.html" muse_href="page:U2565"/>
+      <page name="Radio Sabor" filename="index.html" muse_href="page:U74"/>
+    </DESKTOP>
+  </linkData>
+</manifest>
